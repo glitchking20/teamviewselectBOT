@@ -1,0 +1,29 @@
+{
+  "platform": "PC",
+  "account": {
+    "deviceID": "7ae42c0a93024c43b61265fd586a0994",
+    "accountID": "27d89629bac245538d436c2725076f47",
+    "secret": "36YYXUCLWFH2E3FIH57J6I4W5M7RNFZJ"
+  },
+  "cosmetics": {
+    "skin": "Fish",
+    "backpack": "",
+    "emote": "Fish",
+    "emoji": "",
+    "pickaxe": "",
+    "pet": ""
+  },
+  "cosmetics_variants": {
+    "skin": [
+      {
+        "item": "AthenaCharacter",
+        "channel": "ClothingColor",
+        "variant": "Mat1"
+      }
+    ],
+    "backpack": [],
+    "pickaxe": [],
+    "pet": []
+  },
+  "owners": ["thfortnitehacker"]
+}
